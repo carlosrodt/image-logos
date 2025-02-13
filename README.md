@@ -17,9 +17,9 @@ Puedes explorar las imágenes en las diferentes carpetas del repositorio. Cada i
 
 Puedes utilizar estas imágenes en tus proyectos Docker de varias formas:
 
-1. **Despliega el contenedor y utilizar las rutas de las imagenes en los proyectos y apps propias
-2.** Copiar las imagenes requeridas en los proyecos
-3. **Creando una imagen base:** Puedes crear una imagen personalizada a partir de este proyecto y luego utilizar esta imagen como base para tus otros proyectos.
+1.**Despliega el contenedor y utilizar las rutas de las imagenes en los proyectos y apps propias.
+2.** Copiar las imagenes requeridas en los proyecos.
+3.**Creando una imagen base:** Puedes crear una imagen personalizada a partir de este proyecto y luego utilizar esta imagen como base para tus otros proyectos.
 
 ##  Ejemplo de docker yaml
 version: "3.9"  
